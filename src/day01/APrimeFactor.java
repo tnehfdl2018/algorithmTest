@@ -8,6 +8,14 @@ package day01;
 public class APrimeFactor {
   public static void main(String[] args) {
 
+    long number = 0;
+
+    for (long i = 0L; i < 600851475143L; ++i) {
+      if (i % 2 != 0 && i % 3 != 0 && i % 7 != 0) {
+        number = i;
+      }
+    }
+    System.out.println(number);
   }
 }
 
