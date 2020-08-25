@@ -10,11 +10,16 @@ public class APrimeFactor {
 
     long number = 0;
 
-    for (long i = 0L; i < 600851475143L; ++i) {
-      if (i % 2 != 0 && i % 3 != 0 && i % 7 != 0) {
+    for (long i = 2; i < 600851475143L; i++) {
+      if (600851475143L % i != 0) {
         number = i;
       }
     }
+//    for (long i = 600851475143L; i > 0; --i) {
+//      if (600851475143L % i != 0) {
+//        number = i;
+//      }
+//    }
     System.out.println(number);
   }
 }
