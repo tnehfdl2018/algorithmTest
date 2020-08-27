@@ -5,7 +5,7 @@ package day01;
 //    1, 2, 3, 5, 8, 13, 21, 34, 55, 89, ...
 //    4백만 이하의 짝수 값을 갖는 모든 피보나치 항을 더하면 얼마가 됩니까?
 
-public class Fibonacci {
+public class Problem02 {
 
   public static void main(String[] args) {
 

@@ -6,7 +6,7 @@ package day02;
 //
 //    세 자리 수를 곱해 만들 수 있는 가장 큰 대칭수는 얼마입니까?
 
-public class Palindrome {
+public class Problem04 {
 
   public static void main(String[] args) {
     int fOperand = 0;

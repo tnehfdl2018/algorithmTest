@@ -10,7 +10,7 @@ package day02;
 //
 //    그러면 1부터 100까지 자연수에 대해 "합의 제곱"과 "제곱의 합"의 차이는 얼마입니까?
 
-public class ConsensusSquare {
+public class Problem06 {
 
   public static void main(String[] args) {
     int sum = 0;

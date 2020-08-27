@@ -4,7 +4,7 @@ package day01;
 //
 //    1000보다 작은 자연수 중에서 3 또는 5의 배수를 모두 더하면 얼마일까요?
 
-public class Multiple {
+public class Problem01 {
 
   public static void main(String[] args) {
     int sum = 0;

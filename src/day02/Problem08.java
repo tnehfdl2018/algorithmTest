@@ -29,7 +29,7 @@ package day02;
 //
 //    이렇게 구할 수 있는 연속한 5개 숫자의 곱 중에서 가장 큰 값은 얼마입니까?
 
-public class MaxValue {
+public class Problem08 {
 
   public static void main(String[] args) {
 //    int multipleValue = 0;
